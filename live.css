@@ -74,7 +74,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(Touchpad.png) no-repeat center;
+    background: url(https://media.tenor.com/3bM_wVXenCoAAAAM/bart-simpson-strangle.gif) no-repeat center;
 }
 
 .ds4 .meta {
@@ -269,7 +269,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://media.tenor.com/3bM_wVXenCoAAAAM/bart-simpson-strangle.gif);
+    background-image: url(Start.png);
     width: 26px;
     height: 43px;
 }
