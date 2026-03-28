@@ -74,7 +74,19 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://media.tenor.com/3bM_wVXenCoAAAAM/bart-simpson-strangle.gif) no-repeat center;
+    background: url(Touchpad.png) no-repeat center;
+}
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(face.svg);
+}
+
+.ds4 .face {
+    background: url(dpad.svg);
+    position: absolute;
 }
 
 .ds4 .meta {
